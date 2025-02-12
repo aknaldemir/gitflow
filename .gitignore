@@ -1,9 +1,9 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /.vs
 /ConsoleApp/.vs/ConsoleApp
 /ConsoleApp/ConsoleApp1/obj
-/ConsoleApp/ConsoleApp1/bin/Debug/net6.0
 /ConsoleApp/.vs/ProjectEvaluation
+/ConsoleApp/ConsoleApp1/bin/Debug/net6.0
